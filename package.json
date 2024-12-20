@@ -1,4 +1,5 @@
 {
+  "homepage": "https://abhishekadiga05.github.io/food_website",
   "name": "food_website",
   "version": "0.1.0",
   "private": true,
@@ -33,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
